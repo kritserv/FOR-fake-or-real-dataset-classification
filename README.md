@@ -1,5 +1,15 @@
 # FOR (Fake Or Real) Dataset Classification
 
+I didn't own this dataset.
+
+Datasets created by members of the APTLY lab can be found here: : https://bil.eecs.yorku.ca/datasets/
+
+in this python code I use : for-rerec
+
+for-rerec is a rerecorded version of the for-2second dataset, to simulate a scenario where an attacker sends an utterance through a voice channel (i.e. a phone call or a voice message). 
+
+read more here : https://bil.eecs.yorku.ca/datasets/
+
 Import Library
 
 
