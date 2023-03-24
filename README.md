@@ -1,5 +1,7 @@
 # FOR (Fake Or Real) Dataset Classification
 
+A python notebook for fake and real voice (from FOR Dataset) classification using machine learning technique; CNN, MFCC
+
 I didn't own this dataset.
 
 Datasets created by members of the APTLY lab can be found here: : https://bil.eecs.yorku.ca/datasets/
